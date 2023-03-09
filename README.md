@@ -1,6 +1,6 @@
 # Challenge - Refactoring
 
-My task was to take the existing code and refactor. My goal was to implement better standards regards web accessibility to ensure that people with disabilities can access the website using assistive technologies such as video captions, screen readers, and braille keyboards. Annotated throughout, I have ammended the code so that sections are clearer, and that images contain Alt attributes that provide descriptive names for images for those with visibility issues. I also made small changes to the CSS that advises where I have renamed to make referencing easier.
+My task was to take the existing code and refactor. My goal was to implement better standards regards web accessibility to ensure that people with disabilities can access the website using assistive technologies such as video captions, screen readers, and braille keyboards. Annotated throughout, I have ammended the code so that sections are clearer, and that images contain Alt attributes that provide descriptive names for images for those with visibility issues. I also made small changes to the CSS that advises where I have renamed to make referencing easier and added scrolling. Note has been added in CSS, also.
 
 The webpage remains unchanged as I refactored the code, however, here are images of the index.html for your consideration.
 
