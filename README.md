@@ -4,16 +4,16 @@
 
 The webpage remains unchanged as I refactored the code, however, here are images of the index.html for your consideration.
 
-#Main image
+# Main image
 ![image](https://user-images.githubusercontent.com/119360569/224165559-912cb0d2-4f03-408e-a0dc-5764b60325e4.png)
 
-#Mid section 
+# Mid section 
 ![image](https://user-images.githubusercontent.com/119360569/224165695-ab45701a-2911-4681-bc6f-4712364528a2.png)
 
-#Footer
+# Footer
 ![image](https://user-images.githubusercontent.com/119360569/224165773-2b9cd1ec-67b9-40c6-affa-db3a75d2a7a1.png)
 
-#Links to repo and file
+# Links to repo and file
 
 Repo: https://github.com/DC19Bootcamp
 URL: 
