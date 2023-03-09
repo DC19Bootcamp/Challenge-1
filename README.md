@@ -13,7 +13,7 @@ The webpage remains unchanged in terms of original layout as I refactored the co
 # Footer
 ![image](https://user-images.githubusercontent.com/119360569/224165773-2b9cd1ec-67b9-40c6-affa-db3a75d2a7a1.png)
 
-# Links to repo and file
+# Links to repo and live URL
 
 Repo: https://github.com/DC19Bootcamp
 URL: https://dc19bootcamp.github.io/Challenge-1/ 
